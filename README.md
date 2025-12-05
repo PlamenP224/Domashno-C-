@@ -177,7 +177,7 @@ Obsht broy knigi: 3
 Obsht broy registrirani chlenove: 3
 Obsht broy zaemi (istoriya): 2
 Aktivni (nepriklyucheni) zaemi: 1
-
+```
 
 Автор
 Име: [Plamen Petkov]
