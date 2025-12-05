@@ -21,7 +21,7 @@
 |   ├── Member.h
 |   ├── Loan.h
 |   ├── Library.h
-|   └── main.cpp  // Съдържа main() функцията за демонстрация
+|   └── main.cpp 
 |
 └── README.md
 
