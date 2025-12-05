@@ -17,6 +17,18 @@
 | `Library` | Агрегация и управление на всички обекти | Бизнес логика (`loanBook`, `returnBook`), `const` методи за търсене, **инварианти** (напр. наличност на книга). |
 
 ---
+## Структура
+library/
+├── Author.h
+├── Book.h
+├── Member.h
+├── Loan.h
+├── Library.h
+├── README.md
+├── image.png
+├── main
+└── main.cpp
+
 
 ##  Компилиране и Изпълнение
 
