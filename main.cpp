@@ -13,9 +13,6 @@ void separator(const string& title) {
 
 int main() {
 
-    const string TODAY = "2025-11-20"; 
-    cout << "Dneshna data za testove: " << TODAY << endl;
-
     Library lib;
 
     separator("1. INITSIALIZATSIYA I DOBAVYANE");
@@ -70,4 +67,5 @@ int main() {
     cout << lib.toString() << "\n";
 
     return 0;
+
 }
