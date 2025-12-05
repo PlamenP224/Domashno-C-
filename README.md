@@ -13,17 +13,15 @@
 ---
 
 ## Структура на проекта
-
-|
-├── src/
-|   ├── Author.h
-|   ├── Book.h
-|   ├── Member.h
-|   ├── Loan.h
-|   ├── Library.h
-|   └── main.cpp 
-|
-└── README.md
+library_system/
+├── Author.h
+├── Book.h
+├── Member.h
+├── Loan.h
+├── Library.h
+├── main.cpp
+├── README.md
+└── image.png
 
 
 ## Класове
