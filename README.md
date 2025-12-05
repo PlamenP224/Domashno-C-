@@ -14,13 +14,17 @@
 
 ## Структура на проекта
 
-library_system/
-└── main.cpp # Цялата система в един файл
+|
+├── src/
+|   ├── Author.h
+|   ├── Book.h
+|   ├── Member.h
+|   ├── Loan.h
+|   ├── Library.h
+|   └── main.cpp  // Съдържа main() функцията за демонстрация
+|
+└── README.md
 
-markdown
-Копиране на код
-
----
 
 ## Класове
 
@@ -174,6 +178,8 @@ Obsht broy knigi: 3
 Obsht broy registrirani chlenove: 3
 Obsht broy zaemi (istoriya): 2
 Aktivni (nepriklyucheni) zaemi: 1
+
+
 Автор
 Име: [Plamen Petkov]
 
