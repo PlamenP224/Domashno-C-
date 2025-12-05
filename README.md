@@ -13,6 +13,7 @@
 ---
 
 ## Структура на проекта
+```bash
 library_system/
 ├── Author.h
 ├── Book.h
@@ -22,7 +23,7 @@ library_system/
 ├── main.cpp
 ├── README.md
 └── image.png
-
+```
 
 ## Класове
 
